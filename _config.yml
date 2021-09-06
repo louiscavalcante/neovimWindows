@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+logo: https://github.com/louiscavalcante/neovimWindows/raw/gh-pages/logo.png
+show_downloads: false
+title: Neovim VSCode Clone (Windows)
+description: NeoVim VSCode Clone for Windows Users
